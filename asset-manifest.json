@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/static/css/main.22bb4698.chunk.css",
-    "main.js": "/static/js/main.bf60d34b.chunk.js",
-    "main.js.map": "/static/js/main.bf60d34b.chunk.js.map",
+    "main.js": "/static/js/main.77917556.chunk.js",
+    "main.js.map": "/static/js/main.77917556.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.2625ca21.js",
     "runtime-main.js.map": "/static/js/runtime-main.2625ca21.js.map",
     "static/css/2.7a41fff1.chunk.css": "/static/css/2.7a41fff1.chunk.css",
-    "static/js/2.85dd8e6f.chunk.js": "/static/js/2.85dd8e6f.chunk.js",
-    "static/js/2.85dd8e6f.chunk.js.map": "/static/js/2.85dd8e6f.chunk.js.map",
+    "static/js/2.e56d413a.chunk.js": "/static/js/2.e56d413a.chunk.js",
+    "static/js/2.e56d413a.chunk.js.map": "/static/js/2.e56d413a.chunk.js.map",
     "static/js/3.8ea80b17.chunk.js": "/static/js/3.8ea80b17.chunk.js",
     "static/js/3.8ea80b17.chunk.js.map": "/static/js/3.8ea80b17.chunk.js.map",
     "static/js/4.a03ae2a8.chunk.js": "/static/js/4.a03ae2a8.chunk.js",
@@ -19,11 +19,11 @@
     "static/js/7.90ecd43f.chunk.js": "/static/js/7.90ecd43f.chunk.js",
     "static/js/7.90ecd43f.chunk.js.map": "/static/js/7.90ecd43f.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.fcde1d39c67b6fbba7f5b2f3e10c4d39.js": "/precache-manifest.fcde1d39c67b6fbba7f5b2f3e10c4d39.js",
+    "precache-manifest.9b6abb54374d939bdca51e3849ac2bdb.js": "/precache-manifest.9b6abb54374d939bdca51e3849ac2bdb.js",
     "service-worker.js": "/service-worker.js",
     "static/css/2.7a41fff1.chunk.css.map": "/static/css/2.7a41fff1.chunk.css.map",
     "static/css/main.22bb4698.chunk.css.map": "/static/css/main.22bb4698.chunk.css.map",
-    "static/js/2.85dd8e6f.chunk.js.LICENSE.txt": "/static/js/2.85dd8e6f.chunk.js.LICENSE.txt",
+    "static/js/2.e56d413a.chunk.js.LICENSE.txt": "/static/js/2.e56d413a.chunk.js.LICENSE.txt",
     "static/js/3.8ea80b17.chunk.js.LICENSE.txt": "/static/js/3.8ea80b17.chunk.js.LICENSE.txt",
     "static/media/Check.708e9a93.svg": "/static/media/Check.708e9a93.svg",
     "static/media/Copy.6623475a.svg": "/static/media/Copy.6623475a.svg",
@@ -88,8 +88,8 @@
   "entrypoints": [
     "static/js/runtime-main.2625ca21.js",
     "static/css/2.7a41fff1.chunk.css",
-    "static/js/2.85dd8e6f.chunk.js",
+    "static/js/2.e56d413a.chunk.js",
     "static/css/main.22bb4698.chunk.css",
-    "static/js/main.bf60d34b.chunk.js"
+    "static/js/main.77917556.chunk.js"
   ]
 }
