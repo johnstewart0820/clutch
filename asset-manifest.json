@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/static/css/main.22bb4698.chunk.css",
-    "main.js": "/static/js/main.213572c0.chunk.js",
-    "main.js.map": "/static/js/main.213572c0.chunk.js.map",
+    "main.js": "/static/js/main.70745b16.chunk.js",
+    "main.js.map": "/static/js/main.70745b16.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.8e843440.js",
     "runtime-main.js.map": "/static/js/runtime-main.8e843440.js.map",
     "static/css/2.7a41fff1.chunk.css": "/static/css/2.7a41fff1.chunk.css",
@@ -19,7 +19,7 @@
     "static/js/7.9665b0b6.chunk.js": "/static/js/7.9665b0b6.chunk.js",
     "static/js/7.9665b0b6.chunk.js.map": "/static/js/7.9665b0b6.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.9123e60bd35c16441b66ae9c827aea14.js": "/precache-manifest.9123e60bd35c16441b66ae9c827aea14.js",
+    "precache-manifest.9430948afb9d5e0b59d9d112a18218d1.js": "/precache-manifest.9430948afb9d5e0b59d9d112a18218d1.js",
     "service-worker.js": "/service-worker.js",
     "static/css/2.7a41fff1.chunk.css.map": "/static/css/2.7a41fff1.chunk.css.map",
     "static/css/main.22bb4698.chunk.css.map": "/static/css/main.22bb4698.chunk.css.map",
@@ -56,8 +56,11 @@
     "static/media/export.43ac3019.svg": "/static/media/export.43ac3019.svg",
     "static/media/facebook.8f8bf41c.svg": "/static/media/facebook.8f8bf41c.svg",
     "static/media/facebook.svg": "/static/media/facebook.d1b96d07.svg",
-    "static/media/first.f62106ba.svg": "/static/media/first.f62106ba.svg",
+    "static/media/fifth.99e19c80.svg": "/static/media/fifth.99e19c80.svg",
+    "static/media/first.da9421e7.svg": "/static/media/first.da9421e7.svg",
     "static/media/firstTimer.png": "/static/media/firstTimer.3d9a63c8.png",
+    "static/media/firstTimer.c09970d8.svg": "/static/media/firstTimer.c09970d8.svg",
+    "static/media/fourth.f62106ba.svg": "/static/media/fourth.f62106ba.svg",
     "static/media/go.544f4f9c.svg": "/static/media/go.544f4f9c.svg",
     "static/media/google.05921d79.svg": "/static/media/google.05921d79.svg",
     "static/media/hamburger.25134622.svg": "/static/media/hamburger.25134622.svg",
@@ -77,14 +80,15 @@
     "static/media/preview.b1473740.svg": "/static/media/preview.b1473740.svg",
     "static/media/qr.cc1986b0.svg": "/static/media/qr.cc1986b0.svg",
     "static/media/revert.baddefe8.svg": "/static/media/revert.baddefe8.svg",
-    "static/media/second.55eed59d.svg": "/static/media/second.55eed59d.svg",
+    "static/media/second.99b196d3.svg": "/static/media/second.99b196d3.svg",
+    "static/media/secondTimer.0da27f7b.svg": "/static/media/secondTimer.0da27f7b.svg",
     "static/media/select.191df467.svg": "/static/media/select.191df467.svg",
     "static/media/send.0479b300.svg": "/static/media/send.0479b300.svg",
     "static/media/setting.6a5bb02e.svg": "/static/media/setting.6a5bb02e.svg",
     "static/media/settings.fd5ee54b.svg": "/static/media/settings.fd5ee54b.svg",
     "static/media/share.svg": "/static/media/share.a6ef152c.svg",
     "static/media/swap.e8468a3b.svg": "/static/media/swap.e8468a3b.svg",
-    "static/media/third.bb3def00.svg": "/static/media/third.bb3def00.svg",
+    "static/media/third.97f84879.svg": "/static/media/third.97f84879.svg",
     "static/media/twitter.svg": "/static/media/twitter.9280849b.svg",
     "static/media/wallets.1ea48062.svg": "/static/media/wallets.1ea48062.svg"
   },
@@ -93,6 +97,6 @@
     "static/css/2.7a41fff1.chunk.css",
     "static/js/2.ac9690b1.chunk.js",
     "static/css/main.22bb4698.chunk.css",
-    "static/js/main.213572c0.chunk.js"
+    "static/js/main.70745b16.chunk.js"
   ]
 }
